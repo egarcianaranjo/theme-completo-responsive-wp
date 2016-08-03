@@ -1,0 +1,1 @@
+# theme-completo-responsive-wp
